@@ -1,5 +1,5 @@
 body{
-  background-color:#cceeff;
+  background:linear-gradient(#dff0ff,black,#dff0ff);
   font-family:cursive;
   font-size:20px;
 }
@@ -40,3 +40,6 @@ img{
       background: red;
       border-radius: 50%
     }
+#rick{
+  width:300px
+}
